@@ -8,3 +8,5 @@ The author is Anand Yadav
 This is where i learned to use line breaks.
 <br>
 This is where i opened and checked the file is not showing in the command line terminal
+<br>
+This change is done in the terminal of vs code and now it has to be added first, after which it will get staged and then finally commit to save changes
